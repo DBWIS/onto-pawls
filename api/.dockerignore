@@ -1,0 +1,16 @@
+# Python cache files
+**.pyc
+**/__pycache__
+
+# Docker artifacts
+Dockerfile
+.dockerignore
+
+# Poetry artifacts
+.venv
+
+# Other
+importOntologie
+test
+.flake8
+pytest.ini
